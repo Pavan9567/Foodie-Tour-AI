@@ -26,3 +26,7 @@ FoodieTourGenerator is a Python-based project that leverages the Julep AI platfo
    ```bash
    git clone https://github.com/Pavan9567/Foodie-Tour-AI.git
    cd Foodie-Tour-AI
+
+2. Install the necessary dependencies
+   ```bash
+   pip install julep pyyaml httpx python-dotenv
